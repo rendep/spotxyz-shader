@@ -1,4 +1,4 @@
-# Spot.xyz Takehome Challenges
+# Spot.xyz Takehome Challenge - Shader
 
 ## Overview
 
