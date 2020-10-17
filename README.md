@@ -10,7 +10,7 @@ Although my shader looks close to the given shader image, I believe that I have 
 
 - Making sure the shader shares the same light as the scene light
 - Correcting the overlap darkness of the corners of the shader
-- Reworkign the shader to strictly use the customMaterial with imported fragment.fx and vertex.fx files
+- Reworking the shader to strictly use the customMaterial with imported fragment.fx and vertex.fx files
 - Reworking the shader to determine the edge distance falloff instead of a hard-coded gradient
 - Optimize the shader by establishing more constants and shared variables
 - Utilizing the mesh UV to determine the edge distance above
